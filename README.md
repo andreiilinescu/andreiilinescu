@@ -1,6 +1,7 @@
 >“What I cannot create, I do not understand.”
 — Richard Feynman
-        _    .  ,   .           .
+```
+       _    .  ,   .           .
     *  / \_ *  / \_      _  *        *   /\'__        *
       /    \  /    \,   ((        .    _/  /  \  *'.
  .   /\/\  /\/ :' __ \_  `          _^/  ^/    `--.
@@ -8,6 +9,7 @@
   /\  .-   `. \/     \ /==~=-=~=-=-;.  _/ \ -. `_/   \
  /  `-.__ ^   / .-'.--\ =-=~_=-=~=^/  _ `--./ .-'  `-
 /     `.  / /       `.~-^=-=~=^=.-'      '-._ `._
+```
 [// more](http://www.andreiilinescu.me/)
 <!--
 **andreiilinescu/andreiilinescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
